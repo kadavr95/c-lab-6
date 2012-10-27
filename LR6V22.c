@@ -3,7 +3,7 @@
 #include <math.h>
 
 int main(void){
-  float m[28], min=4,av,sum=0;
+  float m[29], min=4,av,sum=0;
   int i,x=-14;
   printf("Lab 6. Variant 22\n\n");
   for (i = 0; i <= 28; i++) {
